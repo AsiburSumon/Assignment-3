@@ -1,5 +1,24 @@
+/* Fonts are here
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+ */
+
+/* For all */
+h1 ,h5{
+    font-family: 'Lato', sans-serif;
+}
+p, a{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navbar style */
+.navbar .logo{
+    width: 200px;
+}
+
 /* Image Slide Style */
 .banner-img{
     height: 550px;
     filter: brightness(60%);
 }
+
