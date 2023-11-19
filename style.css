@@ -15,6 +15,9 @@ p, a{
 .navbar .logo{
     width: 200px;
 }
+.navbar .collapse form button{
+    width: 200px;
+}
 
 /* Image Slide Style */
 .banner-img{
